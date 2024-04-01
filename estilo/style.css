@@ -8,6 +8,11 @@
     font-weight: normal;
 }
 
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
 body{
     background-color: #84e1ad;
     height: 100%;
